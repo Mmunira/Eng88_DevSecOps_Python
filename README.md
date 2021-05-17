@@ -1,4 +1,3 @@
-Python variables
 Python
 Python installation 3.7 or above
 Pycharm set up
@@ -35,4 +34,3 @@ print("Please enter your name ")
 name = input("")
 print("Hello")
 print(name)
-
