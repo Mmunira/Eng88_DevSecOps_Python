@@ -13,9 +13,9 @@ strings, boolean, integers
 "is considered as a String"
 boolean is true or false
 numbers are ints
-first_name = "Shahrukh" # string
+first_name = "Munira" # string
 
-last_name = "Khan" # string
+last_name = "Mohamed" # string
 print(first_name)
 
 print(last_name)
