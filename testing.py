@@ -2,8 +2,8 @@
 # Syntax name of the variable = value to store in the variable
 # Naming Convention to follow
 
-# first_name = "Shahrukh" # string
-# last_name = "Khan" # string
+# first_name = "Munira" # string
+# last_name = "Mohamed" # string
 # first_name = "james bond"
 # Salary = 111 # integer
 # float_value = 111.12 # float values
